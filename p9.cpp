@@ -2,7 +2,7 @@
 
 const int MAX_N = 50;
 
-int main(){
+int solve_p9(){
     int n,m, k[MAX_N];
     
     //input
